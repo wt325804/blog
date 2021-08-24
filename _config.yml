@@ -116,4 +116,4 @@ theme: sakura
 deploy:
   type: git
   repo: git@gitee.com:WT1030/blog.git
-  branch: master
+  branch: main
