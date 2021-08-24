@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://wt1030.gitee.io/blog
+url: https://wt325804.github.io/blog
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -115,5 +115,5 @@ theme: sakura
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@gitee.com:WT1030/blog.git
-  branch: main
+  repo: git@github.com:wt325804/blog.git
+  branch: master
